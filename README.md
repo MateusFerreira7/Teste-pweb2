@@ -4,3 +4,4 @@ nosso primeiro programa no Github
 ## Desenvolvedores
 
 Mateus
+Diógenes
